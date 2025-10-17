@@ -19,7 +19,7 @@ NEWs
 - [Oct, 2024] Xin serves as Session Chair for IEEE M2VIP 2024. 
 - [May, 2024] Xin co-organizes a Research Topic in Frontiers in Robotics and AI ([Wearables for Human-Robot Interaction & Collaboration](https://www.frontiersin.org/research-topics/63484/wearables-for-human-robot-interaction-collaboration)).
 - [Jul, 2023] Xin serves as Session Chair for ICIRA 2023.
-- [Jun, 2023] Xin co-author a paper nominated Best Paper Finalist in IEEE ARSO 2023 (Bi-Directional Human-Robot Handover Using a Novel Supernumerary Robotic System).
+- [Jun, 2023] Xin co-authors a paper nominated Best Paper Finalist in IEEE ARSO 2023 (Bi-Directional Human-Robot Handover Using a Novel Supernumerary Robotic System).
 - [Oct, 2022] Xin co-organizes a Research Topic in Frontiers in Robotics and AI ([Human-Centered Robot Vision and Artificial Perception] (https://www.frontiersin.org/research-topics/53324/human-centered-robot-vision-and-artificial-perception/magazine)).
 - [Dec, 2021] Xin co-organizes a Special Issue in International Journal of Aerospace Engineering ([Human-Robot Interaction and Collaboration for Space On-Orbit Servicing] (https://onlinelibrary.wiley.com/doi/toc/10.1155/9305.si.781692)).
 - [Sep, 2020] Xin is awarded the CAS Outstanding Doctoral Dissertation (100/5000 in UCAS, the only one in SIA in 2020).
