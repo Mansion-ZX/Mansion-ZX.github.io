@@ -26,11 +26,11 @@ author:
   avatar           : "Xin.jpg"     #"Xin3.png"
   name             : "Xin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Fight"
+  bio              : "星星之火，可以燎原"
   location         : "Earth"
   employer         : "University of Portsmouth"
   uri              : # URL
-  email            : "xin.zhang@port.ac.uk" 
+  email            : # "xin.zhang@port.ac.uk" 
 
   # Academic websites
   academia         : # URL
