@@ -70,20 +70,19 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-<table>
+
+<table border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="width: 30%;">
+    <td style="width: 50%; border: none;">
       <img src="/images/editing-talk.png" alt="描述" width="100%">
     </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      这里是图片右侧的文字说明，可以写多行介绍，  
-      支持 **Markdown 样式**。
-
-      - 也可以放列表
-      - 或者链接等
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      这里是图片右侧的文字说明。
     </td>
   </tr>
 </table>
+
+
 
 For more info
 ------
