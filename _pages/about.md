@@ -30,6 +30,22 @@ Selected Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
+Robotic Grasping and Manipulation 
+------
+For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in 
+
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/editing-talk.png" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      这里是图片右侧的文字说明。
+    </td>
+  </tr>
+</table>
+
+
 Funding & Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
