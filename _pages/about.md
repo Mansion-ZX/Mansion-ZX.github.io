@@ -8,24 +8,28 @@ redirect_from:
 ---
 I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked on Space Robotics at State Key Laboratory of Robotics, Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS), Shenyang, China, and on Human-Robot Interaction at Italian Institute of Technology (IIT), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
 
-My research interests focus on robotics, human-robot interaction, and artificial intelligence. I am keen to apply these technologies to solve real-life problems. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP.
+My research interests focus on robotic system, human-robot interaction, and artificial intelligence. I am keen to apply these technologies to solve real-life problems. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP.
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
 NEWs
 ======
-- [Jul, 2025] Xin serves as local chair for IEEE ARM 2025 (chairs the opening ceremony).
-- [Dec, 2024] Xin serves as Session Chair for IEEE ROBIO 2024 (chairs the human-robot interaction I session).
-- [Jul, 2024] Xin co-organizes a Research Topic in
-
-- 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- [Jul, 2025] Xin serves as Local Chair for IEEE ARM 2025 (chairs the opening ceremony).
+- [Dec, 2024] Xin serves as Session Chair for IEEE ROBIO 2024.
+- [Oct, 2024] Xin serves as Session Chair for IEEE M2VIP 2024. 
+- [May, 2024] Xin co-organizes a Research Topic in Frontiers in Robotics and AI ([Wearables for Human-Robot Interaction & Collaboration](https://www.frontiersin.org/research-topics/63484/wearables-for-human-robot-interaction-collaboration)).
+- [Jul, 2023] Xin serves as Session Chair for ICIRA 2023.
+- [Jun, 2023] Xin co-author a paper nominated Best Paper Finalist in IEEE ARSO 2023 (Bi-Directional Human-Robot Handover Using a Novel Supernumerary Robotic System).
+- [Oct, 2022] Xin co-organizes a Research Topic in Frontiers in Robotics and AI ([Human-Centered Robot Vision and Artificial Perception] (https://www.frontiersin.org/research-topics/53324/human-centered-robot-vision-and-artificial-perception/magazine)).
+- [Dec, 2021] Xin co-organizes a Special Issue in International Journal of Aerospace Engineering ([Human-Robot Interaction and Collaboration for Space On-Orbit Servicing] (https://onlinelibrary.wiley.com/doi/toc/10.1155/9305.si.781692)).
+- [Sep, 2020] Xin is awarded the CAS Outstanding Doctoral Dissertation (100/5000 in UCAS, the only one in SIA in 2020).
+- [Jul, 2019] Xin is awarded the Dean’s Award for Excellence of CAS (400/5000 in UCAS, one of four in SIA in 2019)
 
 Selected Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-A data-driven personal website
+Funding & Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
