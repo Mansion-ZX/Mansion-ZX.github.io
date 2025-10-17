@@ -12,7 +12,7 @@ My research interests focus on robotic system, human-robot interaction, and arti
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
-NEWs
+News
 ======
 - [Jul, 2025] Xin serves as Local Chair for IEEE ARM 2025 (chairs the opening ceremony).
 - [Dec, 2024] Xin serves as Session Chair for IEEE ROBIO 2024.
