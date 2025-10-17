@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked on Space Robotics at State Key Laboratory of Robotics, Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS), Shenyang, China, and on Human-Robot Interaction at Italian Institute of Technology (IIT), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
+I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked at State Key Laboratory of Robotics, Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS), Shenyang, China, and at Italian Institute of Technology (IIT), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
 
 My research interests focus on robotic system, human-robot interaction, and artificial intelligence (AI). I am keen to apply these technologies to solve real-life problems, and I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
 
@@ -69,6 +69,21 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+<table>
+  <tr>
+    <td style="width: 40%;">
+      <img src="/images/editing-talk.png" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      这里是图片右侧的文字说明，可以写多行介绍，  
+      支持 **Markdown 样式**。
+
+      - 也可以放列表
+      - 或者链接等
+    </td>
+  </tr>
+</table>
 
 For more info
 ------
