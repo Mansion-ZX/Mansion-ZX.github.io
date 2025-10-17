@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, [University of Portsmouth](https://www.port.ac.uk/), UK. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences in 2019. 
-Then 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked on space robotics at State Key Laboratory of Robotics, Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS), Shenyang, China, and on human-robot interaction at Italian Institute of Technology (IIT), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
+My research interests focus on robotics, human-robot interaction, and artificial intelligence. I am keen to apply these technologies to solve real-life problems. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP.
+I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
-A data-driven personal website
+NEWs
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
