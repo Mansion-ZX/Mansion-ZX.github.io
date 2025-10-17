@@ -72,7 +72,7 @@ Example: editing a Markdown file for a talk
 
 <table>
   <tr>
-    <td style="width: 40%;">
+    <td style="width: 30%;">
       <img src="/images/editing-talk.png" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
