@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xin Name"
+  name             : "Xin Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Fight"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Portsmouth"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xin.zhang@port.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=z_1nve4AAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "xin-zhang-6123271ba"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
