@@ -34,7 +34,7 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 -Robotic Grasping and Manipulation 
 ------
-** Zhang, X. **, Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). Effective capture of nongraspable objects for space robots using geometric cage pairs. IEEE/ASME transactions on mechatronics, 25(1), 95-107.
+** Zhang, X. ** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). Effective capture of nongraspable objects for space robots using geometric cage pairs. IEEE/ASME transactions on mechatronics, 25(1), 95-107.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
