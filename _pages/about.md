@@ -32,7 +32,44 @@ Selected Research
 =====
 My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved on to **Robotic Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [*Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads*].
 
-Robotic Grasping and Manipulation 
+Robotic Grasping & Manipulation 
+------
+Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [*An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors*](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. 
+Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU) 
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/Tmech24.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>An active-passive compliance strategy is proposed to achieve the precise plugging and safe unplugging of rocket electrical connectors(RECs).</li>
+      <li>A novel assisted plugging-unplugging device (APUD) is designed for the autonomous operation of RECs with mechanical passive compliance, including fixing plugs, locking operation, and unplugging operation.</li>
+      <li>An energy-tank-based control framework is designed to incorporate control passivity into the mechanical passivity of the APUD for improving safety.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+---
+
+**Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [*Effective capture of nongraspable objects for space robots using geometric cage pairs.*](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME Transactions on Mechatronics, 25(1), 95-107.
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/Tmech20.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>A free-flying space robot simulator is developed with the advantage of scalability for changing joint modules and end-effectors.</li>
+      <li>A caging-pair method is proposed to form the combined type of robotic cages for capturing the nongraspable objects.</li>
+      <li>Based on the concept of task compatibility, a caging compatibility index is proposed to describe the capturing capability of the caging-pair method, and an effective algorithm is developed to plan the joint configuration of pregrasping cages.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+****
+
+Human-Robot Interaction 
 ------
 Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [*An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors*](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. 
 Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU) 
