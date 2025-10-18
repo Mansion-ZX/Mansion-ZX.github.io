@@ -34,7 +34,7 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 -Robotic Grasping and Manipulation 
 ------
-Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. Supplementary video, [click here!](https://youtu.be/2VHrQxNMTVU) 
+Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. *Supplementary video*, [click here!](https://youtu.be/2VHrQxNMTVU) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
