@@ -94,7 +94,7 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
-      <img src="/images/wearables1.jpg" alt="描述" width="100%">
+      <img src="/images/wearables.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
