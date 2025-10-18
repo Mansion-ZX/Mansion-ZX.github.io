@@ -88,7 +88,8 @@ Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10)
 </table>
 ---
 
-**Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [*Effective capture of nongraspable objects for space robots using geometric cage pairs.*](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME Transactions on Mechatronics, 25(1), 95-107.
+**Zhang, X.*** , Balatti, P., Leonori, M., & Ajoudani, A. (2023). [*A human motion compensation framework for a supernumerary robotic arm*](https://ieeexplore.ieee.org/abstract/document/10375190). In 2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-8. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=hBFH2gtw55I)
+Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani, A. (2023, June). [*Bi-directional human-robot handover using a novel supernumerary robotic system*](https://ieeexplore.ieee.org/abstract/document/10187506). In 2023 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO) (pp. 153-158). IEEE.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
@@ -96,9 +97,9 @@ Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10)
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
-      <li>A free-flying space robot simulator is developed with the advantage of scalability for changing joint modules and end-effectors.</li>
-      <li>A caging-pair method is proposed to form the combined type of robotic cages for capturing the nongraspable objects.</li>
-      <li>Based on the concept of task compatibility, a caging compatibility index is proposed to describe the capturing capability of the caging-pair method, and an effective algorithm is developed to plan the joint configuration of pregrasping cages.</li>
+      <li>A novel on-shoulder supernumerary system for versatile uses is designed, and a physical and kinematic integration of the human-robot system is developed by combining our SRA and an IMU-based sensory interface.</li>
+      <li>A motion compensation control framework is proposed to compensate for the 3-dimensional (3D) translation motion induced by human users.</li>
+      <li>A bi-directional handover case study has been implemented on this system, which shows its potential in human-robot collaboration scenarios.</li>
       </ul>
     </td>
   </tr>
