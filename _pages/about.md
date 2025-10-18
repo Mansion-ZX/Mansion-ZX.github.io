@@ -12,6 +12,7 @@ My research interests focus on robotic system, human-robot interaction, and arti
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
+
 News
 ======
 - [Jul, 2025] Xin serves as Local Chair for IEEE ARM 2025 (chairs the opening ceremony).
@@ -26,6 +27,7 @@ News
 - [Aug, 2019] Xin serves as Session Chair for ICIRA 2019.
 - [Jul, 2019] Xin is awarded the Dean’s Award for Excellence of CAS (400/5000 at UCAS, one of four at SIA in 2019)
 
+
 Selected Research
 ======
 My research journey began with robotic grasping since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved on to robotic manipulation, targeting robotic sampling, polishing, and assembly, where the force interaction is the key point. 
@@ -33,7 +35,6 @@ My research journey began with robotic grasping since my PhD research topic was 
 Robotic Grasping and Manipulation 
 ------
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in 
-
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
