@@ -41,11 +41,11 @@ Effective capture of nongraspable objects for space robots using geometric cage 
       <img src="/images/Tmech20.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
-      **Zhang, X.**, Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). Effective capture of nongraspable objects for space robots using geometric cage pairs. IEEE/ASME transactions on mechatronics, 25(1), 95-107.
+      ** Zhang, X. **, Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). Effective capture of nongraspable objects for space robots using geometric cage pairs. IEEE/ASME transactions on mechatronics, 25(1), 95-107.
     </td>
   </tr>
 </table>
-
+****
 
 Funding & Projects
 ======
