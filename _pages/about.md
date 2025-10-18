@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked at State Key Laboratory of Robotics, Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS), Shenyang, China, and at Italian Institute of Technology (IIT), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
+I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, [University of Portsmouth (UoP)](https://www.port.ac.uk/), UK. Previously, I worked at State Key Laboratory of Robotics, [Shenyang Institute of Automation (SIA)](http://www.sia.cas.cn/), Chinese Academy of Sciences (CAS), Shenyang, China, and at [Italian Institute of Technology (IIT)](https://www.iit.it/our-research), Genova, Italy. I got my PhD degree in Mechatronics from [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) in 2019.
 
 My research interests focus on robotic system, human-robot interaction, and artificial intelligence (AI). I am keen to apply these technologies to solve real-life problems, and I am really fascinated by space. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
 
