@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked at [Shenyang Institute of Automation (SIA)](http://www.sia.cas.cn/), Chinese Academy of Sciences (CAS), Shenyang, China, and at [Italian Institute of Technology (IIT)](https://www.iit.it/our-research), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
 
-My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems, and I am really fascinated by space. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
+My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems. I am really fascinated by space, especially space robotics projects. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
@@ -34,14 +34,14 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 -Robotic Grasping and Manipulation 
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in 
+Effective capture of nongraspable objects for space robots using geometric cage pairs 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
       <img src="/images/editing-talk.png" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
-      这里是图片右侧的文字说明。
+      Zhang, X., Liu, J., Feng, J., Liu, Y., & Ju, Z. (2020). Effective capture of nongraspable objects for space robots using geometric cage pairs. IEEE/ASME transactions on mechatronics, 25(1), 95-107.
     </td>
   </tr>
 </table>
