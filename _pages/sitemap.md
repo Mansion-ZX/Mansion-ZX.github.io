@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My favorite painting---What a Freedom! by Ilya Repin (1903)
-![My favorite painting---What a Freedom! by Ilya Repin (1903)](/images/editing-talk.png)
+My favorite painting---What a Freedom! by Ilya Repin (1903). This painting is an extraordinary work created by a realist artist in a state of romantic ecstasy.
+![My favorite painting---What a Freedom! by Ilya Repin (1903)](/images/feedom.jpg)
 
 
