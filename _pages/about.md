@@ -81,7 +81,6 @@ Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10)
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
       <li>An agile large-space teleoperation interface is developed with two MYO armbands, where the Cartesian motion and the grasping action are achieved by estimating human arm motion and force.</li>
-      <li>A novel assisted plugging-unplugging device (APUD) is designed for the autonomous operation of RECs with mechanical passive compliance, including fixing plugs, locking operation, and unplugging operation.</li>
       <li>Based on our interface, a teleoperation framework is proposed to guarantee real-time synchronization mapping between the human and robotic arms.</li>
       </ul>
     </td>
