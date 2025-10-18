@@ -71,7 +71,7 @@ Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU)
 
 Human-Robot Interaction 
 ------
-Jia, J., Zhou, H., & **Zhang, X.*** (2024). [*An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation](https://ieeexplore.ieee.org/abstract/document/10907507). In 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), 117-122. 
+Jia, J., Zhou, H., & **Zhang, X.*** (2024). [*An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation*](https://ieeexplore.ieee.org/abstract/document/10907507). In 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), 117-122. 
 Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
