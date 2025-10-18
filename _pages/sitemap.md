@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+My favorite painting---What a Freedom! by Ilya Repin (1903)
+![My favorite painting---What a Freedom! by Ilya Repin (1903)](/images/editing-talk.png)
 
 
