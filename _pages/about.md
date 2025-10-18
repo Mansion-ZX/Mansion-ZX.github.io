@@ -89,11 +89,12 @@ Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10)
 ---
 
 **Zhang, X.*** , Balatti, P., Leonori, M., & Ajoudani, A. (2023). [*A human motion compensation framework for a supernumerary robotic arm*](https://ieeexplore.ieee.org/abstract/document/10375190). In 2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-8. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=hBFH2gtw55I)
+
 Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani, A. (2023, June). [*Bi-directional human-robot handover using a novel supernumerary robotic system*](https://ieeexplore.ieee.org/abstract/document/10187506). In 2023 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO) (pp. 153-158). IEEE.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
-      <img src="/images/Tmech20.jpg" alt="描述" width="100%">
+      <img src="/images/wearables.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
