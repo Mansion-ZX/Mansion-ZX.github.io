@@ -76,7 +76,7 @@ Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10)
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
-      <img src="/images/Tmech24.jpg" alt="描述" width="100%">
+      <img src="/images/ROBIO.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
