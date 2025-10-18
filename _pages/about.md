@@ -32,7 +32,7 @@ Selected Research
 ======
 My research journey began with robotic grasping since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved on to robotic manipulation, targeting robotic sampling, polishing, and assembly, where the force interaction is the key point. 
 
-- Robotic Grasping and Manipulation 
+-Robotic Grasping and Manipulation 
 ------
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in 
 <table border="0" style="border-collapse: collapse; border: none;">
