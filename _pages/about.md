@@ -41,7 +41,6 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
       <img src="/images/Tmech20.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
-      <b> Highlights </b>
       <ul>
       <li>A free-flying space robot simulator is developed with the advantage of scalability for changing joint modules and end-effectors.</li>
       <li>A caging-pair method is proposed to form the combined type of robotic cages for capturing the nongraspable objects.</li>
