@@ -38,13 +38,13 @@ Zhou, H., **Zhang, X.***, Liu, J.*, & Ju, Z. (2024). [An active-passive complian
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
-      <img src="/images/Tmech20.jpg" alt="描述" width="100%">
+      <img src="/images/Tmech24.jpg" alt="描述" width="100%">
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
-      <li>A free-flying space robot simulator is developed with the advantage of scalability for changing joint modules and end-effectors.</li>
-      <li>A caging-pair method is proposed to form the combined type of robotic cages for capturing the nongraspable objects.</li>
-      <li>Based on the concept of task compatibility, a caging compatibility index is proposed to describe the capturing capability of the caging-pair method, and an effective algorithm is developed to plan the joint configuration of pregrasping cages.</li>
+      <li>An active-passive compliance strategy is proposed to achieve the precise plugging and safe unplugging of rocket electrical connectors(RECs).</li>
+      <li>A novel assisted plugging-unplugging device (APUD) is designed for the autonomous operation of RECs with mechanical passive compliance, including fixing plugs, locking operation, and unplugging operation.</li>
+      <li>An energy-tank-based control framework is designed to incorporate control passivity into the mechanical passivity of the APUD for improving safety.</li>
       </ul>
     </td>
   </tr>
