@@ -50,6 +50,22 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
   </tr>
 </table>
 ****
+**Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [Effective capture of nongraspable objects for space robots using geometric cage pairs.](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME transactions on mechatronics, 25(1), 95-107.
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/Tmech20.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>A free-flying space robot simulator is developed with the advantage of scalability for changing joint modules and end-effectors.</li>
+      <li>A caging-pair method is proposed to form the combined type of robotic cages for capturing the nongraspable objects.</li>
+      <li>Based on the concept of task compatibility, a caging compatibility index is proposed to describe the capturing capability of the caging-pair method, and an effective algorithm is developed to plan the joint configuration of pregrasping cages.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+****
 
 Funding & Projects
 ======
