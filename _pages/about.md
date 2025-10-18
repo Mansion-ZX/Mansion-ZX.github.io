@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked at [Shenyang Institute of Automation (SIA)](http://www.sia.cas.cn/), Chinese Academy of Sciences (CAS), Shenyang, China, and at [Italian Institute of Technology (IIT)](https://www.iit.it/our-research), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
 
-My research interests focus on robotic system, human-robot interaction, and artificial intelligence (AI). I am keen to apply these technologies to solve real-life problems, and I am really fascinated by space. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
+My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems, and I am really fascinated by space. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
@@ -30,7 +30,7 @@ News
 
 Selected Research
 =====
-My research journey began with **robotic grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved on to **robotic manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads].
+My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved on to **Robotic Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads].
 
 -Robotic Grasping and Manipulation 
 ------
