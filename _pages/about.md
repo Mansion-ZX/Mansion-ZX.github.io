@@ -71,8 +71,8 @@ Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU)
 
 Human-Robot Interaction 
 ------
-Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [*An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors*](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. 
-Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU) 
+Jia, J., Zhou, H., & **Zhang, X.*** (2024). [*An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation](https://ieeexplore.ieee.org/abstract/document/10907507). In 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), 117-122. 
+Supplementary video, [**click here!**](https://youtu.be/5EQW3m5ep10) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
@@ -80,9 +80,9 @@ Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU)
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
-      <li>An active-passive compliance strategy is proposed to achieve the precise plugging and safe unplugging of rocket electrical connectors(RECs).</li>
+      <li>An agile large-space teleoperation interface is developed with two MYO armbands, where the Cartesian motion and the grasping action are achieved by estimating human arm motion and force.</li>
       <li>A novel assisted plugging-unplugging device (APUD) is designed for the autonomous operation of RECs with mechanical passive compliance, including fixing plugs, locking operation, and unplugging operation.</li>
-      <li>An energy-tank-based control framework is designed to incorporate control passivity into the mechanical passivity of the APUD for improving safety.</li>
+      <li>Based on our interface, a teleoperation framework is proposed to guarantee real-time synchronization mapping between the human and robotic arms.</li>
       </ul>
     </td>
   </tr>
