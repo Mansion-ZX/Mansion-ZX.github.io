@@ -34,7 +34,8 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 -Robotic Grasping and Manipulation 
 ------
-Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. *Supplementary video*, [click here!](https://youtu.be/2VHrQxNMTVU) 
+Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [*An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors*](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. 
+*Supplementary video*, [click here!](https://youtu.be/2VHrQxNMTVU) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
@@ -51,7 +52,7 @@ Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [An active-passive complia
 </table>
 ---
 
-**Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [Effective capture of nongraspable objects for space robots using geometric cage pairs.](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME transactions on mechatronics, 25(1), 95-107.
+**Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [*Effective capture of nongraspable objects for space robots using geometric cage pairs.*](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME transactions on mechatronics, 25(1), 95-107.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
