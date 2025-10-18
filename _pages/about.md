@@ -28,7 +28,7 @@ News
 
 Selected Research
 ======
-My PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space, so my research journey began with robotic grasping. Then, I moved to robotic manipulation, focusing on force interaction.
+My research journey began with robotic grasping since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects in space. Then, I moved to robotic manipulation, focusing on force interaction.
 
 Robotic Grasping and Manipulation 
 ------
