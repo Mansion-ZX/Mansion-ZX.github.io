@@ -52,6 +52,39 @@ Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU)
 </table>
 ---
 
+Zhou, H., **Zhang, X.***, & Liu, J. (2025). [*A corrective shared control architecture for human–robot collaborative polishing tasks*](https://www.sciencedirect.com/science/article/abs/pii/S0736584524001637). Robotics and Computer-Integrated Manufacturing, 92, 102876.
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/RCIM.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>A corrective shared control architecture with direct force-reflection is proposed to allow operators to deal with unexpected issues in polishing tasks, under which an intention-based collaborative polishing strategy is proposed to correct the polishing force.</li>
+      <li>Based on the energy-awareness theory, a coupling energy scaling policy is designed between master and slave sides to regulate the transmission of both energy flows, which guarantees the passivity of the whole system and avoids contact instability caused by direct force-reflection.</li>
+      <li>The direct force-reflection is employed in corrective shared control for the first time to facilitate operators perceiving the polishing force at the slave side, which allows for estimating human intention exactly.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+---
+Zhou, H., **Zhang, X.***, Liu, J. *, & Ju, Z. (2024). [*An active-passive compliance strategy for robotic plugging and unplugging of rocket electrical connectors*](https://ieeexplore.ieee.org/abstract/document/10569080). IEEE/ASME Transactions on Mechatronics, 30(2), 1014-1025. 
+Supplementary video, [**click here!**](https://youtu.be/2VHrQxNMTVU) 
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/Tmech24.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>An active-passive compliance strategy is proposed to achieve the precise plugging and safe unplugging of rocket electrical connectors(RECs).</li>
+      <li>A novel assisted plugging-unplugging device (APUD) is designed for the autonomous operation of RECs with mechanical passive compliance, including fixing plugs, locking operation, and unplugging operation.</li>
+      <li>An energy-tank-based control framework is designed to incorporate control passivity into the mechanical passivity of the APUD for improving safety.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+---
 **Zhang, X.** , Liu, J.*, Feng, J., Liu, Y., & Ju, Z. (2020). [*Effective capture of nongraspable objects for space robots using geometric cage pairs.*](https://ieeexplore.ieee.org/abstract/document/8894400) IEEE/ASME Transactions on Mechatronics, 25(1), 95-107.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
