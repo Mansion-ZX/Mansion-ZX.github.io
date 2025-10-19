@@ -12,5 +12,5 @@ One of my favorite paintings---[What a Freedom!](https://rusmuseumvrm.ru/data/co
 
 <img src="/images/freedom.jpg" alt="description" width="900">
 
-My interpretation: Life is a journey, full of wind and waves, but we are the captains of our own ships, and those who are brave and optimistic can enjoy this journey:)
+My interpretation: Life is a journey, full of wind and waves, but we are the captains of our own ships. Embrace those who are brave and optimistic and enjoy this journey together:)
 
