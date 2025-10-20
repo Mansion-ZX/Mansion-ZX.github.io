@@ -124,8 +124,8 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 
 Funding & Projects
 ======
-NSFC
+TBD
 
 For more info
 ======
-Hobbies
+TBD
