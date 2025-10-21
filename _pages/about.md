@@ -124,7 +124,7 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 
 Teaching & Supervision
 ======
-TBD
+- M34187---Introduction to Programming (Lab Sessions)
 
 Funding & Projects
 ======
