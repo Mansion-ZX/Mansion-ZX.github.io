@@ -124,11 +124,16 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 
 Teaching & Supervision
 ======
-- M34187---Introduction to Programming (Lab Sessions)
+- Introduction to Programming (Lab Sessions)
+- Programmable Logic Controller (Pending)
 
 Funding & Projects
 ======
-TBD
+- A Feasibility Study on Human–Robot Collaboration via Sensorimotor Integration Between Wearable Interface and Supernumerary Robotic Arm (7,000GBP), PI, Supported by UoP-NARF, August/2025---Jul/2026
+- Underwater Robot Manipulation Techniques and Methods Based on Satellite Communication (Be responsible for the tele-impedance interface design and implementation, 300,000RMB), PI, Supported by Basic Research Foundation of SIA, Jan/2024---Dec/2026
+- Coupling Interaction Mechanism of Small Body Sampling Robot and Active and Passive Compliant Manipulation Method (300,000RMB), PI, Supported by NSFC, Jan/2022---Dec/2024
+- Active and Passive Composite Compliant Operational Technology of Space Robots for Small Body Surface Sampling Task (80,000RMB), PI, Supported by National Postdoctoral Science Foundation, Jul/2020---Dec/2021
+- Robotic Transformation of a Long-Boom Hydraulic Crane  (2,750,000RMB), Project Manager, Supported by CASIC (Industrial project), Jun/2019---June/2022
 
 For more info
 ======
