@@ -160,6 +160,7 @@ Picture Gallery
 ------
 With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore our fancy ideas. 
 
+/* 
 <style>
   :root{
     --gap:12px;
@@ -196,4 +197,6 @@ With the support of UoP's Robotics and Automation Lab, a variety of advanced rob
   <div class="thumb"><img src="https://picsum.photos/id/1060/320/240" alt=""></div>
   <div class="thumb"><img src="https://picsum.photos/id/1074/320/240" alt=""></div>
 </div>
+
+ */
 
