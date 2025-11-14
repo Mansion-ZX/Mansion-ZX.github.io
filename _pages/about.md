@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, Faculty of Technology, University of Portsmouth (UoP), UK. Previously, I worked at [Shenyang Institute of Automation (SIA)](http://www.sia.cas.cn/), Chinese Academy of Sciences (CAS), Shenyang, China, and at [Italian Institute of Technology (IIT)](https://www.iit.it/our-research), Genova, Italy. I got my PhD degree in Mechatronics from University of Chinese Academy of Sciences (UCAS) in 2019.
 
-My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems. I am really fascinated by space, especially space robotics projects. I am building my own Lab (Human-AI-Robot Interaction Lab) at UoP now.
+My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems. I am really fascinated by space, especially space robotics projects. I am building my own research line (Human-AI-Robot Interaction Group) at UoP now.
 
 I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
@@ -124,8 +124,8 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 
 Teaching & Supervision
 ======
-- Introduction to Programming (Lab Sessions)
-- Programmable Logic Controller (Pending)
+- Introduction to Programming (Run Lab Sessions)
+- Programmable Logic Controller (Module Coordinator)
 
 Funding & Projects
 ======
@@ -135,6 +135,7 @@ Funding & Projects
 - Active and Passive Composite Compliant Operational Technology of Space Robots for Small Body Surface Sampling Task (80,000RMB), PI, Supported by National Postdoctoral Science Foundation, Jul/2020---Dec/2021
 - Robotic Transformation of a Long-Boom Hydraulic Crane  (2,750,000RMB), Project Manager, Supported by CASIC (Industrial project), Jun/2019---June/2022
 
-For more info
+Picture Gallery
 ======
-TBD
+Robotics research is highly related to hardware. Supported by UoP's Robotics and Automation Lab, some robotic facilities are available for students to carry out research in my group. 
+
