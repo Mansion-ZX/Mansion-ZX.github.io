@@ -32,6 +32,8 @@ Selected Research
 =====
 My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects. Then, I moved on to **Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [*Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads*].
 
+I started on wearable robots in the Human-Robot Interaction domain after I worked at IIT. 
+
 Robotic Grasping & Manipulation 
 ------
 **Zhang, X.*** , Zhou, H., & Liu, J. (2025). *VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*. Construction Robotics, 1-38. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
