@@ -34,6 +34,22 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 Robotic Grasping & Manipulation 
 ------
+**Zhang, X.***, Zhou, H., & Liu, J. (2025). [*VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*]. Construction Robotics, 1-38.
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="/images/CR.jpg" alt="描述" width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px; border: none;">
+      <ul>
+      <li>A cable-driven compliant gripper, designed to enable both soft docking and rigid locking, is integrated with an LBHR to create a heavy-load compliant grasping system.</li>
+      <li>A vision-based multistep grasping strategy (VBMGS) is proposed to enable long-distance grasping. This strategy eliminates the need for hand-eye calibration and mitigates the adverse effects of kinematics uncertainty by incrementally guiding the grasping system toward the target object.</li>
+      <li>A compensated incremental kinematics (CIK) method is embedded within the VBMGS to compute joint increments analytically, ensuring an accurate and incremental approach during the grasping process.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+---
 Zhou, H., **Zhang, X.***, & Liu, J *. (2025). [*A corrective shared control architecture for human–robot collaborative polishing tasks*](https://www.sciencedirect.com/science/article/abs/pii/S0736584524001637). Robotics and Computer-Integrated Manufacturing, 92, 102876.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -138,112 +154,8 @@ Funding & Projects
 More Info
 ======
 - Picture Gallery
+
 As we know, robotics research is highly related to hardware. With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore your fancy ideas. 
-<div>
-  <h2>
-   <html lang="zh-CN">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1050/1200/800" data-title="Snow peaks">
-<img src="https://picsum.photos/id/1050/320/240" alt="6">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1060/1200/800" data-title="Green valley">
-<img src="https://picsum.photos/id/1060/320/240" alt="7">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1074/1200/800" data-title="Coastline">
-<img src="https://picsum.photos/id/1074/320/240" alt="8">
-</div>
-</div>
-
-
-<!-- Lightbox modal -->
-<div class="lightbox" id="lightbox" aria-hidden="true">
-<div class="lightbox-content" role="dialog" aria-modal="true">
-<div class="lightbox-img">
-<button class="nav-btn" id="prevBtn" aria-label="Previous">◀</button>
-<img id="lightboxImage" src="" alt="">
-<button class="nav-btn" id="nextBtn" aria-label="Next">▶</button>
-</div>
-<div class="lightbox-footer">
-<div class="caption" id="caption">&nbsp;</div>
-<div>
-<button class="close-btn" id="closeBtn" aria-label="Close">Close ✕</button>
-</div>
-</div>
-</div>
-</div>
-
-
-<script>
-(function(){
-const thumbs = Array.from(document.querySelectorAll('.thumb'));
-const lightbox = document.getElementById('lightbox');
-const lightboxImage = document.getElementById('lightboxImage');
-const captionEl = document.getElementById('caption');
-const prevBtn = document.getElementById('prevBtn');
-const nextBtn = document.getElementById('nextBtn');
-const closeBtn = document.getElementById('closeBtn');
-let currentIndex = -1;
-
-
-function openIndex(i){
-const t = thumbs[i];
-const large = t.getAttribute('data-large');
-const title = t.getAttribute('data-title') || '';
-lightboxImage.src = large;
-lightboxImage.alt = title;
-captionEl.textContent = title;
-currentIndex = i;
-lightbox.classList.add('open');
-lightbox.setAttribute('aria-hidden','false');
-}
-
-
-function close(){
-lightbox.classList.remove('open');
-lightbox.setAttribute('aria-hidden','true');
-lightboxImage.src = '';
-currentIndex = -1;
-}
-
-
-function showNext(){ openIndex((currentIndex + 1) % thumbs.length); }
-function showPrev(){ openIndex((currentIndex - 1 + thumbs.length) % thumbs.length); }
-
-
-thumbs.forEach((t, i)=>{
-t.addEventListener('click', ()=> openIndex(i));
-});
-
-
-closeBtn.addEventListener('click', close);
-nextBtn.addEventListener('click', showNext);
-prevBtn.addEventListener('click', showPrev);
-
-
-// Close when clicking outside content
-lightbox.addEventListener('click', (e)=>{
-if(e.target === lightbox) close();
-});
-
-
-// Keyboard support
-document.addEventListener('keydown', (e)=>{
-if(lightbox.classList.contains('open')){
-if(e.key === 'Escape') close();
-if(e.key === 'ArrowRight') showNext();
-if(e.key === 'ArrowLeft') showPrev();
-}
-});
-
-
-})();
-</script>
-
-
-</body>
-</html> 
-  </h2>
-</div>
 
 
 
