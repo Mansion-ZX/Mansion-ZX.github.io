@@ -153,9 +153,9 @@ Funding & Projects
 
 More Info
 ======
-- Picture Gallery
-
-As we know, robotics research is highly related to hardware. With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore your fancy ideas. 
+Picture Gallery
+------
+With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore our fancy ideas. 
 
 
 
