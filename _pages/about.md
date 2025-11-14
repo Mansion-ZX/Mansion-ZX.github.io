@@ -192,10 +192,10 @@ With the support of UoP's Robotics and Automation Lab, a variety of advanced rob
   <div class="thumb"><img src="/images/UR.jpg" alt=""></div>
   <div class="thumb"><img src="/images/Bax.jpg" alt=""></div>
   <div class="thumb"><img src="/images/Omron.jpg" alt=""></div>
-  <div class="thumb"><img src="/images/Dobot.jpg" alt=""></div>
-  <div class="thumb"><img src="/images/Nao.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Dobot.jpg" alt=""></div> 
   <div class="thumb"><img src="/images/Dog.jpg" alt=""></div>
   <div class="thumb"><img src="/images/Peper.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Lab.jpg" alt=""></div>
 </div>
 
 
