@@ -159,7 +159,72 @@ More Info
 Picture Gallery
 ------
 With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore our fancy ideas. 
+
 <html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2x4 Picture Gallery</title>
+<style>
+:root{--gap:12px;--thumb-w:160px;--thumb-h:110px}
+.gallery{
+display:grid;
+grid-template-columns: repeat(4, 1fr);
+gap: var(--gap);
+max-width: calc(4 * var(--thumb-w) + 3 * var(--gap));
+margin: 0 auto;
+padding: 12px;
+}
+.thumb{
+width:100%;
+aspect-ratio: 4 / 3;
+overflow:hidden;
+border-radius:8px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+cursor:pointer;
+position:relative;
+}
+.thumb img{
+width:100%;
+height:100%;
+object-fit:cover;
+display:block;
+transition: transform .25s ease;
+}
+.thumb:hover img{ transform: scale(1.04); }
+
+
+/* Modal / Lightbox */
+.lightbox{
+position:fixed;
+inset:0;
+display:none;
+align-items:center;
+justify-content:center;
+background: rgba(0,0,0,0.6);
+z-index:9999;
+padding:20px;
+}
+.lightbox.open{ display:flex; }
+.lightbox-content{
+max-width: calc(100% - 40px);
+max-height: calc(100% - 40px);
+background:#fff;
+border-radius:10px;
+overflow:hidden;
+box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+display:flex;
+flex-direction:column;
+width: min(1000px, 95%);
+}
+.lightbox-img{
+flex:1 1 auto;
+display:flex;
+align-items:center;
+justify-content:center;
+background:#111;
+}
+.lightbox-img img{
 max-width:100%;
 max-height:100%;
 object-fit:contain;
@@ -175,52 +240,7 @@ background:linear-gradient(#fff,#f6f6f6);
 }
 .close-btn, .nav-btn{
 background:none;
-border:0;
-font-size:18px;
-cursor:pointer;
-padding:6px 10px;
-border-radius:6px;
-}
-.close-btn:hover, .nav-btn:hover{ background:rgba(0,0,0,0.06); }
-.caption{ font-size:14px; color:#333; }
-
-
-/* Responsive: shrink to 2 columns on small screens */
-@media (max-width:700px){
-.gallery{ grid-template-columns: repeat(2, 1fr); }
-}
-</style>
-</head>
-<body>
-
-
-<div class="gallery" id="gallery">
-<!-- Each .thumb: set data-large to the big image URL and title if you want a caption -->
-<div class="thumb" data-large="https://picsum.photos/id/1015/1200/800" data-title="Mountain lake">
-<img src="https://picsum.photos/id/1015/320/240" alt="1">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1016/1200/800" data-title="Forest path">
-<img src="https://picsum.photos/id/1016/320/240" alt="2">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1025/1200/800" data-title="Sea view">
-<img src="https://picsum.photos/id/1025/320/240" alt="3">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1035/1200/800" data-title="Desert dunes">
-<img src="https://picsum.photos/id/1035/320/240" alt="4">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1042/1200/800" data-title="City lights">
-<img src="https://picsum.photos/id/1042/320/240" alt="5">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1050/1200/800" data-title="Snow peaks">
-<img src="https://picsum.photos/id/1050/320/240" alt="6">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1060/1200/800" data-title="Green valley">
-<img src="https://picsum.photos/id/1060/320/240" alt="7">
-</div>
-<div class="thumb" data-large="https://picsum.photos/id/1074/1200/800" data-title="Coastline">
-<img src="https://picsum.photos/id/1074/320/240" alt="8">
-</div>
-</div>
+</html>
 
 
 
