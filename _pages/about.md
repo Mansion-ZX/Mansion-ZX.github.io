@@ -34,7 +34,7 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 Robotic Grasping & Manipulation 
 ------
-**Zhang, X.***, Zhou, H., & Liu, J. (2025). *VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*. Construction Robotics, 1-38.
+**Zhang, X.*** , Zhou, H., & Liu, J. (2025). *VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*. Construction Robotics, 1-38.
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
