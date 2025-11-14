@@ -10,7 +10,7 @@ I am a Lecturer in Robotics at School of Electrical and Mechanical Engineering, 
 
 My research interests focus on Robotic Systems, Human-Robot Interaction, and Artificial Intelligence (AI). I am keen to apply these technologies to solve real-life problems. Meanwhile, I am really fascinated by space, especially space robotics projects. I am building my own research line (Human-AI-Robot Interaction Group) at UoP.
 
-I am serving as an Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
+I am serving as Associate Editor for [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) and [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
 
 News
@@ -30,7 +30,7 @@ News
 
 Selected Research
 =====
-My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects. Then, I moved on to **Robotic Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [*Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads*].
+My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects. Then, I moved on to **Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [*Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads*].
 
 Robotic Grasping & Manipulation 
 ------
