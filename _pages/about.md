@@ -159,6 +159,68 @@ More Info
 Picture Gallery
 ------
 With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore our fancy ideas. 
+<html lang="zh-CN">
+max-width:100%;
+max-height:100%;
+object-fit:contain;
+display:block;
+}
+.lightbox-footer{
+padding:10px 14px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+gap:10px;
+background:linear-gradient(#fff,#f6f6f6);
+}
+.close-btn, .nav-btn{
+background:none;
+border:0;
+font-size:18px;
+cursor:pointer;
+padding:6px 10px;
+border-radius:6px;
+}
+.close-btn:hover, .nav-btn:hover{ background:rgba(0,0,0,0.06); }
+.caption{ font-size:14px; color:#333; }
+
+
+/* Responsive: shrink to 2 columns on small screens */
+@media (max-width:700px){
+.gallery{ grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+
+<div class="gallery" id="gallery">
+<!-- Each .thumb: set data-large to the big image URL and title if you want a caption -->
+<div class="thumb" data-large="https://picsum.photos/id/1015/1200/800" data-title="Mountain lake">
+<img src="https://picsum.photos/id/1015/320/240" alt="1">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1016/1200/800" data-title="Forest path">
+<img src="https://picsum.photos/id/1016/320/240" alt="2">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1025/1200/800" data-title="Sea view">
+<img src="https://picsum.photos/id/1025/320/240" alt="3">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1035/1200/800" data-title="Desert dunes">
+<img src="https://picsum.photos/id/1035/320/240" alt="4">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1042/1200/800" data-title="City lights">
+<img src="https://picsum.photos/id/1042/320/240" alt="5">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1050/1200/800" data-title="Snow peaks">
+<img src="https://picsum.photos/id/1050/320/240" alt="6">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1060/1200/800" data-title="Green valley">
+<img src="https://picsum.photos/id/1060/320/240" alt="7">
+</div>
+<div class="thumb" data-large="https://picsum.photos/id/1074/1200/800" data-title="Coastline">
+<img src="https://picsum.photos/id/1074/320/240" alt="8">
+</div>
+</div>
 
 
 
