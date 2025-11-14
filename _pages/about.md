@@ -140,7 +140,7 @@ Du, Y., **Zhang, X.***, Leonori, M., Balatti, P., Jin, J., Wang, Q., & Ajoudani,
 
 Teaching & Supervision
 ======
-- Introduction to Programming (Run Lab Sessions)
+- Introduction to Programming (Lab Sessions)
 - Programmable Logic Controller (Module Coordinator)
 
 Funding & Projects
