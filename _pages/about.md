@@ -42,7 +42,7 @@ Robotic Grasping & Manipulation
     </td>
     <td style="vertical-align: top; padding-left: 10px; border: none;">
       <ul>
-      <li>A cable-driven compliant gripper, designed to enable both soft docking and rigid locking, is integrated with an LBHR to create a heavy-load compliant grasping system.</li>
+      <li>A cable-driven compliant gripper, designed to enable both soft docking and rigid locking, is integrated with a long-boom hydraulic robot to create a heavy-load compliant grasping system.</li>
       <li>A vision-based multistep grasping strategy (VBMGS) is proposed to enable long-distance grasping. This strategy eliminates the need for hand-eye calibration and mitigates the adverse effects of kinematics uncertainty by incrementally guiding the grasping system toward the target object.</li>
       <li>A compensated incremental kinematics (CIK) method is embedded within the VBMGS to compute joint increments analytically, ensuring an accurate and incremental approach during the grasping process.</li>
       </ul>
