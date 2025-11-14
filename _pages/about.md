@@ -162,85 +162,260 @@ With the support of UoP's Robotics and Automation Lab, a variety of advanced rob
 
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2x4 Picture Gallery</title>
-<style>
-:root{--gap:12px;--thumb-w:160px;--thumb-h:110px}
-.gallery{
-display:grid;
-grid-template-columns: repeat(4, 1fr);
-gap: var(--gap);
-max-width: calc(4 * var(--thumb-w) + 3 * var(--gap));
-margin: 0 auto;
-padding: 12px;
-}
-.thumb{
-width:100%;
-aspect-ratio: 4 / 3;
-overflow:hidden;
-border-radius:8px;
-box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-cursor:pointer;
-position:relative;
-}
-.thumb img{
-width:100%;
-height:100%;
-object-fit:cover;
-display:block;
-transition: transform .25s ease;
-}
-.thumb:hover img{ transform: scale(1.04); }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2x4 Picture Gallery</title>
+  <style>
+    :root{--gap:12px;--thumb-w:160px;--thumb-h:110px}
+    .gallery{
+      display:grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: var(--gap);
+      max-width: calc(4 * var(--thumb-w) + 3 * var(--gap));
+      margin: 0 auto;
+      padding: 12px;
+    }
+    .thumb{
+      width:100%;
+      aspect-ratio: 4 / 3;
+      overflow:hidden;
+      border-radius:8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+      cursor:pointer;
+      position:relative;
+    }
+    .thumb img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+      transition: transform .25s ease;
+    }
+    .thumb:hover img{ transform: scale(1.04); }
 
+    /* Modal / Lightbox */
+    .lightbox{
+      position:fixed;
+      inset:0;
+      display:none;
+      align-items:center;
+      justify-content:center;
+      background: rgba(0,0,0,0.6);
+      z-index:9999;
+      padding:20px;
+    }
+    .lightbox.open{ display:flex; }
+    .lightbox-content{
+      max-width: calc(100% - 40px);
+      max-height: calc(100% - 40px);
+      background:#fff;
+      border-radius:10px;
+      overflow:hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+      display:flex;
+      flex-direction:column;
+      width: min(1000px, 95%);
+    }
+    .lightbox-img{
+      flex:1 1 auto;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#111;
+    }
+    .lightbox-img img{
+      max-width:100%;
+      max-height:100%;
+      object-fit:contain;
+      display:block;
+    }
+    .lightbox-footer{
+      padding:10px 14px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:10px;
+      background:linear-gradient(#fff,#f6f6f6);
+    }
+    .close-btn, .nav-btn{
+      background:none;
+      border:0;
+      font-size:18px;
+      cursor:pointer;
+      padding:6px 10px;
+      border-radius:6px;
+    }
+    .close-btn:hover, .nav-btn:hover{ background:rgba(0,0,0,0.06); }
+    .caption{ font-size:14px; color:#333; }
 
-/* Modal / Lightbox */
-.lightbox{
-position:fixed;
-inset:0;
-display:none;
-align-items:center;
-justify-content:center;
-background: rgba(0,0,0,0.6);
-z-index:9999;
-padding:20px;
-}
-.lightbox.open{ display:flex; }
-.lightbox-content{
-max-width: calc(100% - 40px);
-max-height: calc(100% - 40px);
-background:#fff;
-border-radius:10px;
-overflow:hidden;
-box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-display:flex;
-flex-direction:column;
-width: min(1000px, 95%);
-}
-.lightbox-img{
-flex:1 1 auto;
-display:flex;
-align-items:center;
-justify-content:center;
-background:#111;
-}
-.lightbox-img img{
-max-width:100%;
-max-height:100%;
-object-fit:contain;
-display:block;
-}
-.lightbox-footer{
-padding:10px 14px;
-display:flex;
-align-items:center;
-justify-content:space-between;
-gap:10px;
-background:linear-gradient(#fff,#f6f6f6);
-}
-.close-btn, .nav-btn{
-background:none;
+    /* Responsive: shrink to 2 columns on small screens */
+    @media (max-width:700px){
+      .gallery{ grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+
+<div class="gallery" id="gallery">
+  <!-- Each .thumb: set data-large to the big image URL and title if you want a caption -->
+  <div class="thumb" data-large="https://picsum.photos/id/1015/1200/800" data-title="Mountain lake">
+    <img src="https://picsum.photos/id/1015/320/240" alt="1">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1016/1200/800" data-title="Forest path">
+    <img src="https://picsum.photos/id/1016/320/240" alt="2">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1025/1200/800" data-title="Sea view">
+    <img src="https://picsum.photos/id/1025/320/240" alt="3">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1035/1200/800" data-title="Desert dunes">
+    <img src="https://picsum.photos/id/1035/320/240" alt="4">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1042/1200/800" data-title="City lights">
+    <img src="https://picsum.photos/id/1042/320/240" alt="5">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1050/1200/800" data-title="Snow peaks">
+    <img src="https://picsum.photos/id/1050/320/240" alt="6">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1060/1200/800" data-title="Green valley">
+    <img src="https://picsum.photos/id/1060/320/240" alt="7">
+  </div>
+  <div class="thumb" data-large="https://picsum.photos/id/1074/1200/800" data-title="Coastline">
+    <img src="https://picsum.photos/id/1074/320/240" alt="8">
+  </div>
+</div>
+
+<!-- Lightbox modal -->
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <div class="lightbox-content" role="dialog" aria-modal="true">
+    <div class="lightbox-img">
+      <button class="nav-btn" id="prevBtn" aria-label="Previous">◀</button>
+      <img id="lightboxImage" src="" alt="">
+      <button class="nav-btn" id="nextBtn" aria-label="Next">▶</button>
+    </div>
+    <div class="lightbox-footer">
+      <div class="caption" id="caption">&nbsp;</div>
+      <div>
+        <button class="close-btn" id="closeBtn" aria-label="Close">Close ✕</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  const thumbs = Array.from(document.querySelectorAll('.thumb'));
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightboxImage');
+  const captionEl = document.getElementById('caption');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const closeBtn = document.getElementById('closeBtn');
+  let currentIndex = -1;
+
+  function openIndex(i){
+    const t = thumbs[i];
+    const large = t.getAttribute('data-large');
+    const title = t.getAttribute('data-title') || '';
+    lightboxImage.src = large;
+    lightboxImage.alt = title;
+    captionEl.textContent = title;
+    currentIndex = i;
+    lightbox.classList.add('open');
+    lightbox.setAttribute('aria-hidden','false');
+  }
+
+  function close(){
+    lightbox.classList.remove('open');
+    lightbox.setAttribute('aria-hidden','true');
+    lightboxImage.src = '';
+    currentIndex = -1;
+  }
+
+  function showNext(){ openIndex((currentIndex + 1) % thumbs.length); }
+  function showPrev(){ openIndex((currentIndex - 1 + thumbs.length) % thumbs.length); }
+
+  thumbs.forEach((t, i)=>{
+    t.addEventListener('click', ()=> openIndex(i));
+  });
+
+  closeBtn.addEventListener('click', close);
+  nextBtn.addEventListener('click', showNext);
+  prevBtn.addEventListener('click', showPrev);
+
+  // Close when clicking outside content
+  lightbox.addEventListener('click', (e)=>{
+    if(e.target === lightbox) close();
+  });
+
+  // Keyboard support
+  document.addEventListener('keydown', (e)=>{
+    if(lightbox.classList.contains('open')){
+      if(e.key === 'Escape') close();
+      if(e.key === 'ArrowRight') showNext();
+      if(e.key === 'ArrowLeft') showPrev();
+    }
+  });
+
+})();
+</script>
+
+</body>
 </html>
+
+Picture Gallery2
+------
+
+<style>
+/* 内联样式写在页面中（GitHub Pages / Jekyll 可以） */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 列 */
+  gap: 12px;
+  max-width: 1200px;     /* 可选：限制整体宽度 */
+  margin: 0 auto;        /* 居中 */
+}
+.gallery-grid a {
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.gallery-grid img {
+  width: 100%;
+  height: 180px;        /* 固定缩略高度，你也可以用 auto */
+  object-fit: cover;    /* 保持裁切并填满缩略图 */
+  display: block;
+  transition: transform .25s ease;
+}
+.gallery-grid a:hover img {
+  transform: scale(1.03);
+}
+
+/* responsive: 小屏幕改为 2 列或 1 列 */
+@media (max-width: 900px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 480px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="gallery-grid">
+  <!-- 用 <a> 包裹缩略图，点开可看大图 -->
+  <a href="images/photo1-large.jpg"><img src="images/photo1-thumb.jpg" alt="Photo 1"></a>
+  <a href="images/photo2-large.jpg"><img src="images/photo2-thumb.jpg" alt="Photo 2"></a>
+  <a href="images/photo3-large.jpg"><img src="images/photo3-thumb.jpg" alt="Photo 3"></a>
+  <a href="images/photo4-large.jpg"><img src="images/photo4-thumb.jpg" alt="Photo 4"></a>
+  <a href="images/photo5-large.jpg"><img src="images/photo5-thumb.jpg" alt="Photo 5"></a>
+  <a href="images/photo6-large.jpg"><img src="images/photo6-thumb.jpg" alt="Photo 6"></a>
+  <a href="images/photo7-large.jpg"><img src="images/photo7-thumb.jpg" alt="Photo 7"></a>
+  <a href="images/photo8-large.jpg"><img src="images/photo8-thumb.jpg" alt="Photo 8"></a>
+</div>
+
 
 
 
