@@ -158,7 +158,7 @@ More Info
 
 Picture Gallery
 ------
-With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms (cobots, humanoids, and robotic dogs) can be used to explore our fancy ideas. 
+With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic devices (cobots, humanoids, and robotic dogs) can be used to explore our fancy ideas. 
 
 
 <style>
