@@ -137,7 +137,7 @@ Funding & Projects
 
 Picture Gallery
 ======
-Robotics research is highly related to hardware. Supported by UoP's Robotics and Automation Lab, some robotic facilities are available for students to carry out research in my group. 
+Robotics research is highly related to hardware. With the support of UoP's Robotics and Automation Lab, my group has access to a variety of robotic platforms for exploring fancy ideas. 
 
 <!doctype html>
 <html lang="zh-CN">
