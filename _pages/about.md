@@ -188,14 +188,14 @@ With the support of UoP's Robotics and Automation Lab, a variety of advanced rob
 </style>
 
 <div class="gallery">
-  <div class="thumb"><img src="https://picsum.photos/id/1015/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1016/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1025/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1035/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1042/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1050/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1060/320/240" alt=""></div>
-  <div class="thumb"><img src="https://picsum.photos/id/1074/320/240" alt=""></div>
+  <div class="thumb"><img src="/images/ABB.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/UR.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Bax.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Omron.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Dobot.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Nao.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Dog.jpg" alt=""></div>
+  <div class="thumb"><img src="/images/Peper.jpg" alt=""></div>
 </div>
 
 
