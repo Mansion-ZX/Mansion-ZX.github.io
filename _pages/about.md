@@ -135,9 +135,10 @@ Funding & Projects
 - Active and Passive Composite Compliant Operational Technology of Space Robots for Small Body Surface Sampling Task (80,000RMB), PI, Supported by National Postdoctoral Science Foundation, Jul/2020---Dec/2021
 - Robotic Transformation of a Long-Boom Hydraulic Crane  (2,750,000RMB), Project Manager, Supported by CASIC (Industrial project), Jun/2019---June/2022
 
-Picture Gallery
+More Info
 ======
-Robotics research is highly related to hardware. With the support of UoP's Robotics and Automation Lab, my group has access to a variety of robotic platforms for exploring fancy ideas. 
+- Picture Gallery
+As we know, robotics research is highly related to hardware. With the support of UoP's Robotics and Automation Lab, a variety of advanced robotic platforms can be used to explore your fancy ideas. 
 
 <html lang="zh-CN">
 <head>
