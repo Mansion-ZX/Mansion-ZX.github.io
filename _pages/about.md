@@ -147,7 +147,7 @@ Teaching & Supervision
 
 Funding & Projects
 ======
-- A Feasibility Study on Human–Robot Collaboration via Sensorimotor Integration Between Wearable Interface and Supernumerary Robotic Arm (7,000GBP), PI, Supported by UoP-NARF, August/2025---Jul/2026
+- A Feasibility Study on Human–Robot Collaboration via Sensorimotor Integration Between Wearable Interface and Supernumerary Robotic Arm (6,000GBP), PI, Supported by UoP-NARF, August/2025---Jul/2026
 - Underwater Robot Manipulation Techniques and Methods Based on Satellite Communication (Be responsible for the tele-impedance interface design and implementation, 300,000RMB), PI, Supported by Basic Research Foundation of SIA, Jan/2024---Dec/2026
 - Coupling Interaction Mechanism of Small Body Sampling Robot and Active and Passive Compliant Manipulation Method (300,000RMB), PI, Supported by NSFC, Jan/2022---Dec/2024
 - Active and Passive Composite Compliant Operational Technology of Space Robots for Small Body Surface Sampling Task (80,000RMB), PI, Supported by National Postdoctoral Science Foundation, Jul/2020---Dec/2021
