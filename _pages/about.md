@@ -36,7 +36,7 @@ I started working on wearable robots in the Human-Robot Interaction domain after
 
 Robotic Grasping & Manipulation 
 ------
-**Zhang, X.*** , Zhou, H., & Liu, J. (2025). *VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*. Construction Robotics, 1-38. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
+**Zhang, X.*** , Zhou, H., & Liu, J. (2025). *VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*. Construction Robotics, 1-23. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
