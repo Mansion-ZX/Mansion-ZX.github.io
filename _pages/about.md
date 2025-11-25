@@ -52,7 +52,7 @@ Robotic Grasping & Manipulation
   </tr>
 </table>
 ---
-Zhou, H., **Zhang, X.***, & Liu, J *. (2025). [*A corrective shared control architecture for human–robot collaborative polishing tasks*](https://www.sciencedirect.com/science/article/abs/pii/S0736584524001637). Robotics and Computer-Integrated Manufacturing, 92, 102876.
+Zhou, H., **Zhang, X.***, & Liu, J *. (2025). [*A corrective shared control architecture for human–robot collaborative polishing tasks*](https://www.sciencedirect.com/science/article/abs/pii/S0736584524001637). Robotics and Computer-Integrated Manufacturing, 92, 102876. Supplementary video, [**click here!**](https://youtu.be/aqJdUi6aYnY) 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; border: none;">
