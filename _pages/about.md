@@ -38,7 +38,7 @@ Robotic Grasping & Manipulation
 ------
 **Zhang, X.*** , Zhou, H., & Liu, J. (2025). [*VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*](https://link.springer.com/article/10.1007/s41693-025-00171-z). Construction Robotics, 9(29), 1-23. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
 
-Zhou, H., **Zhang, X.**, & Liu, J. (2023).[*A practical method for the deformation of long‐stroke hydraulic manipulators in grasping‐handling tasks*](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22160). Journal of Field Robotics, 40(4), 862-878.
+Zhou, H., **Zhang, X.**, & Liu, J. (2023). [*A practical method for the deformation of long‐stroke hydraulic manipulators in grasping‐handling tasks*](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22160). Journal of Field Robotics, 40(4), 862-878.
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
