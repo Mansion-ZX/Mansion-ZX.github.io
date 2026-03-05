@@ -37,6 +37,7 @@ My research journey began with **Robotic Grasping** since my PhD research topic 
 
 I started working on wearable robots in the Human-Robot Interaction domain after I worked at IIT. 
 <!--Currently, I am focusing on my NARF project at UoP: Human–Robot Collaboration via Sensorimotor Integration between a Wearable Interface and a Supernumerary Robotic Arm.-->
+
 Robotic Grasping & Manipulation 
 ------
 **Zhang, X.*** , Zhou, H., & Liu, J. (2025). [*VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*](https://link.springer.com/article/10.1007/s41693-025-00171-z). Construction Robotics, 9(29), 1-23. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
