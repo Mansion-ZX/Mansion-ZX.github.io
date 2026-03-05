@@ -151,7 +151,7 @@ Teaching & Supervision
 ======
 - Introduction to Programming (Lab Sessions)
 - Programmable Logic Controller (Module Coordinator)
-- Supervised PhD students: Hao Zhou, Zhihui Xue, Lei Liu 
+- Co-supervised PhD students: Hao Zhou, Zhihui Xue, Lei Liu 
 
 Funding & Projects
 ======
