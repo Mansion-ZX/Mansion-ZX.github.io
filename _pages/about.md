@@ -35,8 +35,8 @@ Selected Research
 =====
 My research journey began with **Robotic Grasping** since my PhD research topic was about planning and control of space robots for grasping cooperative or non-cooperative objects. Then, I moved on to **Manipulation**, targeting robotic sampling (in space), polishing, and assembly, where the force interaction is the key point. In the first three years after I graduated with my PhD, I worked as a Project Manager/Leader in an industrial project --- [*Robotic Transformation of a Long-Boom Hydraulic Crane for Autonomous Transporting Heavy Loads*].
 
-I started working on wearable robots in the Human-Robot Interaction domain after I worked at IIT. Currently, I am focusing on my NARF project at UoP: Human–Robot Collaboration via Sensorimotor Integration between a Wearable Interface and a Supernumerary Robotic Arm.
-
+I started working on wearable robots in the Human-Robot Interaction domain after I worked at IIT. 
+<!--Currently, I am focusing on my NARF project at UoP: Human–Robot Collaboration via Sensorimotor Integration between a Wearable Interface and a Supernumerary Robotic Arm.-->
 Robotic Grasping & Manipulation 
 ------
 **Zhang, X.*** , Zhou, H., & Liu, J. (2025). [*VBMGS: A Vision-Based Multistep Grasping Strategy for a Long-Boom Hydraulic Robot System with Structural Flexibility*](https://link.springer.com/article/10.1007/s41693-025-00171-z). Construction Robotics, 9(29), 1-23. Supplementary video, [**click here!**](https://www.youtube.com/watch?v=8jQZE3bnaXk) 
@@ -154,7 +154,7 @@ Teaching & Supervision
 
 Funding & Projects
 ======
-- A Feasibility Study on Human–Robot Collaboration via Sensorimotor Integration Between Wearable Interface and Supernumerary Robotic Arm (6,000GBP), PI, Supported by UoP-NARF, August/2025---Jul/2026
+<!--A Feasibility Study on Human–Robot Collaboration via Sensorimotor Integration Between Wearable Interface and Supernumerary Robotic Arm (6,000GBP), PI, Supported by UoP-NARF, August/2025---Jul/2026--> 
 - Underwater Robot Manipulation Techniques and Methods Based on Satellite Communication (Be responsible for the tele-impedance interface design and implementation, 300,000RMB), PI, Supported by Basic Research Foundation of SIA, Jan/2024---Dec/2026
 - Coupling Interaction Mechanism of Small Body Sampling Robot and Active and Passive Compliant Manipulation Method (300,000RMB), PI, Supported by NSFC, Jan/2022---Dec/2024
 - Active and Passive Composite Compliant Operational Technology of Space Robots for Small Body Surface Sampling Task (80,000RMB), PI, Supported by National Postdoctoral Science Foundation, Jul/2020---Dec/2021
