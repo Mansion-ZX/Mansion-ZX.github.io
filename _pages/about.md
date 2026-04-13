@@ -16,9 +16,10 @@ I am serving as Associate Editor for [Frontiers in Robotics and AI](https://www.
 News
 ======
 - [Mar, 2026] Xin serves as Committee Member for International Conference on Robotics and Embodied Intelligence ([REI2026](https://www.openacdemic.com/rei2026/)).
-- [Feb, 2026] Xin shows his research on camera-based teleoperation and wearable robots to the UK Defence Minister Luke Pollard MP at UoP ([University of Portsmouth hosts major Government announcement to boost student skills for defence careers](https://www.port.ac.uk/news-events-and-blogs/news/university-of-portsmouth-hosts-major-government-announcement-to-boost-student-skills-for-defence-careers)) ([From classrooms to capability: minister unveils £80m investment for defence courses](https://www.forcesnews.com/news/classrooms-capability-defence-minister-unveils-ps80m-investment-defence-courses))
+- [Feb, 2026] Xin shows his research on camera-based teleoperation and wearable robots to the UK Defence Minister Luke Pollard MP at UoP ([University of Portsmouth hosts major Government announcement to boost student skills for defence careers](https://www.port.ac.uk/news-events-and-blogs/news/university-of-portsmouth-hosts-major-government-announcement-to-boost-student-skills-for-defence-careers)) ([From classrooms to capability: minister unveils £80m investment for defence courses](https://www.forcesnews.com/news/classrooms-capability-defence-minister-unveils-ps80m-investment-defence-courses)).
 - [Dec, 2025] Xin co-organizes a special issue in Biomimetics ([Advanced Human–Robot Interaction Challenges and Opportunities](https://www.mdpi.com/journal/biomimetics/special_issues/9PBE9T8RUF)).
 - [Jul, 2025] Xin serves as Local Chair for IEEE ARM 2025 (chairs the opening ceremony).
+- [Jun, 2025] Xin co-organizes a special issue in the Chinese Robotics Journal "JIQIREN" ([Planetary-Surface Operation Robot](https://robot.sia.cn/cn/topic?id=6a71f40e-56a1-4d4a-b008-63c25cf58f91)).
 - [Dec, 2024] Xin serves as Session Chair for IEEE ROBIO 2024.
 - [Oct, 2024] Xin serves as Session Chair for IEEE M2VIP 2024. 
 - [May, 2024] Xin co-organizes a Research Topic in Frontiers in Robotics and AI ([Wearables for Human-Robot Interaction & Collaboration](https://www.frontiersin.org/research-topics/63484/wearables-for-human-robot-interaction-collaboration)).
