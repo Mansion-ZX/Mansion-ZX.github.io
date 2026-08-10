@@ -16,7 +16,7 @@ I am serving as Associate Editor for [Frontiers in Robotics and AI](https://www.
 News
 ======
 - [May, 2026] Xin serves as Committee Member for the 6th Annual IEEE International Conference on Digital Twins and Parallel Intelligence ([DTPI 2026](https://ieee-dtpi-2026.org/)).
-- [Apr, 2026] Xin joins the inaugural Editorial Board of Robotics and Intelligent Systems (RIS, a newly launched international Journal by CAS-SIA).
+- [Apr, 2026] Xin joins the inaugural Editorial Board of Robotics and Intelligent Systems ([RIS](https://www.sciengine.com/ris/home), a newly launched international Journal by CAS-SIA).
 - [Mar, 2026] Xin serves as Committee Member for the International Conference on Robotics and Embodied Intelligence ([REI2026](https://www.openacdemic.com/rei2026/)).
 - [Feb, 2026] Xin shows his research on camera-based teleoperation and wearable robots to the UK Defence Minister Luke Pollard MP at UoP ([University of Portsmouth hosts major Government announcement to boost student skills for defence careers](https://www.port.ac.uk/news-events-and-blogs/news/university-of-portsmouth-hosts-major-government-announcement-to-boost-student-skills-for-defence-careers)) ([From classrooms to capability: minister unveils £80m investment for defence courses](https://www.forcesnews.com/news/classrooms-capability-defence-minister-unveils-ps80m-investment-defence-courses)).
 - [Dec, 2025] Xin co-organizes a special issue in Biomimetics ([Advanced Human–Robot Interaction Challenges and Opportunities](https://www.mdpi.com/journal/biomimetics/special_issues/9PBE9T8RUF)).
