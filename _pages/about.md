@@ -15,7 +15,7 @@ I am serving as Associate Editor for [Frontiers in Robotics and AI](https://www.
 
 News
 ======
-- [Sep, 2026] Xin joins the Editorial Board of The Innovation Informatics ([TII](https://www.the-innovation.org/the-innovation-informatics).
+- [Sep, 2026] Xin joins the Editorial Board of The Innovation Informatics ([TII](https://www.the-innovation.org/the-innovation-informatics)).
 - [May, 2026] Xin serves as Committee Member for the 6th Annual IEEE International Conference on Digital Twins and Parallel Intelligence ([DTPI 2026](https://ieee-dtpi-2026.org/)).
 - [Apr, 2026] Xin joins the inaugural Editorial Board of Robotics and Intelligent Systems ([RIS](https://www.sciengine.com/ris/home), a newly launched international Journal by CAS-SIA).
 - [Mar, 2026] Xin serves as Committee Member for the International Conference on Robotics and Embodied Intelligence ([REI2026](https://www.openacdemic.com/rei2026/)).
